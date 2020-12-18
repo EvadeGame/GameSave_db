@@ -1,0 +1,1532 @@
+{
+    "game": [
+        {
+            "name": {
+                "en-US": "Dark Souls™: Prepare to Die Edition"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Dark Souls II"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Dark Souls™ III"
+            },
+            "steam": {
+                "appid": "105600",
+                "launch": "\\DarkSoulsIII.exe",
+                "save": "%appdata%\\DarkSoulsIII"
+            }
+        },
+        {
+            "name": {
+                "en-US": "Cuphead"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Cyberpunk 2077"
+            },
+            "steam": {
+                "appid": "1091500",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Witcher"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Witcher 2: Assassins of Kings"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Witcher® 3: Wild Hunt"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Borderlands 1"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Borderlands 1"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Borderlands 3"
+            },
+            "steam": {
+                "appid": "397540",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Euro Truck Simulator 2"
+            },
+            "steam": {
+                "appid": "227300",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Sekiro™: Shadows Die Twice"
+            },
+            "steam": {
+                "appid": "814380",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Nioh: Complete Edition"
+            },
+            "steam": {
+                "appid": "485510",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Noita"
+            },
+            "steam": {
+                "appid": "881100",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Hades"
+            },
+            "steam": {
+                "appid": "1145360",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Mount & Blade II: Bannerlord"
+            },
+            "steam": {
+                "appid": "261550",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Terraria"
+            },
+            "steam": {
+                "appid": "105600",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Stardew Valley"
+            },
+            "steam": {
+                "appid": "413150",
+                "launch": "",
+                "save": "%appdata%\\StardewValley"
+            }
+        },
+        {
+            "name": {
+                "en-US": "Grid Dawn"
+            },
+            "steam": {
+                "appid": "219990",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Gujian3",
+                "zn-CN": "古剑奇谭三"
+            },
+            "steam": {
+                "appid": "994280",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Torchlight II"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Torchlight III"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "Titan Quest"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "Divinity: Original Sin 2"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "Darkest Dungeon"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "Assassin's Creed® Odyssey"
+            },
+            "steam": {
+                "appid": "812140",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "The Scroll Of Taiwu",
+                "zn-CN": "太吾绘卷"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "The Wind Road",
+                "zn-CN": "紫塞秋分"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "Undertale"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "Ori and the Blind Forest"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "Rim World"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "Darkest Dungeon"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "FEZ"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "The Elder Scrolls V: Skyrim"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "Factorio"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": "%appid%\\Factorio"
+            }
+        },{
+            "name": {
+                "en-US": "Oxygen Not Included"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Don't Starve"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Frostpunk"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "RimWorld"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Prison Architect"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },{
+            "name": {
+                "en-US": "Space Haven"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Raft"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Satisfactory"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Northgard"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "ASTRONEER"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Subnautica"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "7 Days to Die"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Long Dark"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Forest"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Green Hell"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "No Man's Sky"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "UnderMine"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Grand Theft Auto V"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Red Dead Redemption 2"
+            },
+            "steam": {
+                "appid": "1174180",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Resident Evil 2"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Total War: WARHAMMER II"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Halo: The Master Chief Collection"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Age of Empires® III (2007)"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Age of Empires II (2013)"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Hollow Knight"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Mafia"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Ori and the Will of the Wisps"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Detroit: Become Human"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Fallout 4"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Shadow of the Tomb Raider"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Elder Scrolls V: Skyrim Special Edition"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Elder Scrolls IV: Oblivion®"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Elder Scrolls III: Morrowind®"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Metro Exodus"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Dragon Age™ Inquisition"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Dragon Age: Origins"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Dragon Age II"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Far Cry® 5"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Far Cry 3"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Far Cry® New Dawn"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Sniper Elite 4"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Outer Worlds"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Mass Effect™：Andromeda"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Disco Elysium"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Middle-earth™: Shadow of War™"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "OCTOPATH TRAVELER™"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Kingdom Come: Deliverance"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "This War of Mine"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Assassin's Creed® Origins"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Ori and the Blind Forest"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Assassin’s Creed® IV Black Flag™"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Dishonored 2"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Grand Theft Auto: San Andreas"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Assassin's Creed 2 Deluxe Edition"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Graveyard Keeper"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Medieval Dynasty"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Kenshi"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "My Time At Portia"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Assassin's Creed® Unity"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Sleeping Dogs: Definitive Edition"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Divinity: Original Sin"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Banner Saga 3"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Baldur's Gate 3"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Pathfinder: Kingmaker - Enhanced Plus Edition"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Wasteland 3"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "SpellForce 3"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Shenmue III"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Yakuza Kiwami 2Metro 2033 Redux"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Metro 2033 Redux"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Curious Expedition 2"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Just Cause 4"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Planet Coaster"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "SPORE™"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Two Point Hospital"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Starbound"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Europa Universalis IV"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Surviving Mars"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Just Cause™ 3"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Stellaris"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Project Hospital"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Thief Simulator"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Stranded Deep"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Besiege"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Factory Town"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Autonauts"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Kerbal Space Program"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Kingdoms and Castles"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Portal Knights"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Crashlands"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Avorion"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Age of History II"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Craftopia"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Victoria II"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Merchant of the Skies"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Mindustry"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Watch_Dogs™"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Dawn of Man"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Eco"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Firewatch"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Beholder 2"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Mafia II"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Pillars of Eternity"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Might & Magic® Heroes® VII"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Deus Ex: Human Revolution"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Tyranny"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Max Payne 3"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "West of Loathing"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "This War of Mine"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Katana ZERO"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Spiritfarer®"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Salt and Sanctuary"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Remnant: From the Ashes"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Vigil: The Longest Night"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Morbid: The Seven Acolytes"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Darksiders III"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Surge 2"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Vampyr"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Minoria"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        }
+    ]
+}
