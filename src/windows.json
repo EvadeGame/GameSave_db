@@ -507,7 +507,17 @@
             "steam": {
                 "appid": "",
                 "launch": "",
-                "save": ""
+                "save": "%LocalAppData%\\Hinterland\\TheLongDark"
+            }
+        },
+        {
+            "name": {
+                "en-US": "Hyper Light Drifter"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": "%LocalAppData%\\HyperLightDrifter"
             }
         },
         {
