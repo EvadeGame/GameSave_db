@@ -406,16 +406,6 @@
         },
         {
             "name": {
-                "en-US": "Rim World"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },
-        {
-            "name": {
                 "en-US": "Darkest Dungeon"
             },
             "steam": {
@@ -431,7 +421,7 @@
             "steam": {
                 "appid": "",
                 "launch": "",
-                "save": ""
+                "save": "%APPDATA%\\FEZ"
             }
         },
         {
@@ -461,7 +451,7 @@
             "steam": {
                 "appid": "",
                 "launch": "",
-                "save": "%appid%\\Factorio"
+                "save": "%APPDATA%\\Factorio\\saves"
             }
         },
         {
@@ -551,7 +541,7 @@
             "steam": {
                 "appid": "294100",
                 "launch": "",
-                "save": ""
+                "save": "%UserProfile%\\LocalLow\\RimWorld\\Saves"
             }
         },
         {
