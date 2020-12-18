@@ -37,7 +37,7 @@
             "steam": {
                 "appid": "105600",
                 "launch": "\\DarkSoulsIII.exe",
-                "save": "%appdata%\\DarkSoulsIII"
+                "save": "%APPDATA%\\DarkSoulsIII"
             }
         },
         {
@@ -361,7 +361,16 @@
             "steam": {
                 "appid": "",
                 "launch": "",
-                "save": ""
+                "save": "%LocalAppData%\\Skyrim"
+            }
+        },{
+            "name": {
+                "en-US": "The Elder Scrolls V: Skyrim Special Edition"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": "%LocalAppData%\\Skyrim Special Edition"
             }
         },{
             "name": {
