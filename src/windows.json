@@ -2,22 +2,32 @@
     "game": [
         {
             "name": {
-                "en-US": "Dark Souls™: Prepare to Die Edition"
+                "en-US": "DARK SOULS™: Prepare To Die™ Edition"
             },
             "steam": {
-                "appid": "",
+                "appid": "211420",
                 "launch": "",
-                "save": ""
+                "save": "%USERPROFILE%\\Documents\\NBGI\\DarkSouls"
             }
         },
         {
             "name": {
-                "en-US": "Dark Souls II"
+                "en-US": "DARK SOULS™: REMASTERED"
             },
             "steam": {
-                "appid": "",
+                "appid": "570940",
                 "launch": "",
-                "save": ""
+                "save": "%USERPROFILE%\\Documents\\NBGI\\DarkSouls"
+            }
+        },
+        {
+            "name": {
+                "en-US": "DARK SOULS™ II"
+            },
+            "steam": {
+                "appid": "236430",
+                "launch": "",
+                "save": "%APPDATA%\\DarkSoulsII"
             }
         },
         {
@@ -35,9 +45,9 @@
                 "en-US": "Cuphead"
             },
             "steam": {
-                "appid": "",
+                "appid": "268910",
                 "launch": "",
-                "save": ""
+                "save": "%APPDATA%\\Cuphead"
             }
         },
         {
@@ -47,7 +57,17 @@
             "steam": {
                 "appid": "1091500",
                 "launch": "",
-                "save": ""
+                "save": "%userprofile%\\Saved Games\\CD Projekt Red\\Cyberpunk 2077"
+            }
+        },
+        {
+            "name": {
+                "en-US": "VA-11 Hall-A: Cyberpunk Bartender Action"
+            },
+            "steam": {
+                "appid": "447530",
+                "launch": "",
+                "save": "%LocalAppData%\\VA_11_Hall_A"
             }
         },
         {
@@ -68,6 +88,9 @@
                 "appid": "",
                 "launch": "",
                 "save": ""
+            },
+            "gog": {
+
             }
         },
         {
@@ -75,9 +98,9 @@
                 "en-US": "The Witcher® 3: Wild Hunt"
             },
             "steam": {
-                "appid": "",
+                "appid": "292030",
                 "launch": "",
-                "save": ""
+                "save": "%USERPROFILE%\\Documents\\The Witcher 3\\gamesaves"
             }
         },
         {
@@ -177,7 +200,7 @@
             "steam": {
                 "appid": "105600",
                 "launch": "",
-                "save": ""
+                "save": "%USERPROFILE%\\Documents\\My Games\\Terraria"
             }
         },
         {
@@ -690,12 +713,35 @@
         },
         {
             "name": {
-                "en-US": "Dragon Age™ Inquisition"
+                "en-US": "Metro Exodus"
             },
             "steam": {
                 "appid": "",
                 "launch": "",
                 "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Sid Meier’s Civilization® VI"
+            },
+            "steam": {
+                "appid": "289070",
+                "launch": "",
+                "save": "%USERPROFILE%\\Documents\\My Games\\Sid Meier's Civilization 5\\Saves\\single"
+            }
+        },
+        {
+            "name": {
+                "en-US": "Sid Meier's Civilization® V"
+            },
+            "steam": {
+                "appid": "8930",
+                "launch": "",
+                "save": ""
+            },
+            "epic": {
+            	"save": "%USERPROFILE%\\Documents\\My Games\\Sid Meier's Civilization VI (Epic)\\Saves\\Single"
             }
         },
         {
@@ -1493,9 +1539,19 @@
                 "en-US": "Darksiders III"
             },
             "steam": {
-                "appid": "",
+                "appid": "606280",
                 "launch": "",
                 "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Darksiders II Deathinitive Edition"
+            },
+            "steam": {
+                "appid": "606280",
+                "launch": "",
+                "save": "%USERPROFILE%\\Documents\\My Games\\Darksiders2"
             }
         },
         {
