@@ -334,12 +334,22 @@
         },
         {
             "name": {
+                "en-US": "Divinity: Original Sin Enhanced Edition"
+            },
+            "steam": {
+                "appid": "373420",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
                 "en-US": "Divinity: Original Sin 2"
             },
             "steam": {
-                "appid": "",
+                "appid": "435150",
                 "launch": "",
-                "save": ""
+                "save": "%USERPROFILE%\\Documents\\Larian Studios\\Divinity Original Sin 2 Definitive Edition\\PlayerProfiles"
             }
         },
         {
@@ -1142,9 +1152,9 @@
                 "en-US": "This War of Mine"
             },
             "steam": {
-                "appid": "",
+                "appid": "282070",
                 "launch": "",
-                "save": ""
+                "save": "%AppData%\\11bitstudios\\This War Of Mine"
             }
         },
         {
@@ -1260,16 +1270,6 @@
         {
             "name": {
                 "en-US": "Sleeping Dogs: Definitive Edition"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },
-        {
-            "name": {
-                "en-US": "Divinity: Original Sin"
             },
             "steam": {
                 "appid": "",
