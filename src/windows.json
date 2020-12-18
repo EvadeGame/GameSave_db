@@ -89,9 +89,7 @@
                 "launch": "",
                 "save": ""
             },
-            "gog": {
-
-            }
+            "gog": {}
         },
         {
             "name": {
@@ -105,20 +103,30 @@
         },
         {
             "name": {
-                "en-US": "Borderlands 1"
+                "en-US": "Borderlands Game of the Year"
             },
             "steam": {
-                "appid": "",
+                "appid": "8980",
                 "launch": "",
                 "save": ""
             }
         },
         {
             "name": {
-                "en-US": "Borderlands 1"
+                "en-US": "Borderlands 2"
             },
             "steam": {
-                "appid": "",
+                "appid": "49520",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Borderlands: The Pre-Sequel"
+            },
+            "steam": {
+                "appid": "261640",
                 "launch": "",
                 "save": ""
             }
@@ -135,10 +143,70 @@
         },
         {
             "name": {
+                "en-US": "Trine Enchanted Edition"
+            },
+            "steam": {
+                "appid": "35700",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Trine 2: Complete Story"
+            },
+            "steam": {
+                "appid": "35720",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Trine 3: The Artifacts of Power"
+            },
+            "steam": {
+                "appid": "319910",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Trine 4: The Nightmare Prince"
+            },
+            "steam": {
+                "appid": "690640",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
                 "en-US": "Euro Truck Simulator 2"
             },
             "steam": {
                 "appid": "227300",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Magicka"
+            },
+            "steam": {
+                "appid": "42910",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Magicka 2"
+            },
+            "steam": {
+                "appid": "238370",
                 "launch": "",
                 "save": ""
             }
@@ -253,137 +321,10 @@
                 "launch": "",
                 "save": ""
             }
-        },{
+        },
+        {
             "name": {
                 "en-US": "Titan Quest"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "Divinity: Original Sin 2"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "Darkest Dungeon"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "Assassin's Creed® Odyssey"
-            },
-            "steam": {
-                "appid": "812140",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "The Scroll Of Taiwu",
-                "zn-CN": "太吾绘卷"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "The Wind Road",
-                "zn-CN": "紫塞秋分"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "Undertale"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "Ori and the Blind Forest"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "Rim World"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "Darkest Dungeon"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "FEZ"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": ""
-            }
-        },{
-            "name": {
-                "en-US": "The Elder Scrolls V: Skyrim"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": "%LocalAppData%\\Skyrim"
-            }
-        },{
-            "name": {
-                "en-US": "The Elder Scrolls V: Skyrim Special Edition"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": "%LocalAppData%\\Skyrim Special Edition"
-            }
-        },{
-            "name": {
-                "en-US": "Factorio"
-            },
-            "steam": {
-                "appid": "",
-                "launch": "",
-                "save": "%appid%\\Factorio"
-            }
-        },{
-            "name": {
-                "en-US": "Oxygen Not Included"
             },
             "steam": {
                 "appid": "",
@@ -393,12 +334,154 @@
         },
         {
             "name": {
-                "en-US": "Don't Starve"
+                "en-US": "Divinity: Original Sin 2"
             },
             "steam": {
                 "appid": "",
                 "launch": "",
                 "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Darkest Dungeon"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Assassin's Creed® Odyssey"
+            },
+            "steam": {
+                "appid": "812140",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Scroll Of Taiwu",
+                "zn-CN": "太吾绘卷"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Wind Road",
+                "zn-CN": "紫塞秋分"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Undertale"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Ori and the Blind Forest"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Rim World"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Darkest Dungeon"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "FEZ"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Elder Scrolls V: Skyrim"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": "%LocalAppData%\\Skyrim"
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Elder Scrolls V: Skyrim Special Edition"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": "%LocalAppData%\\Skyrim Special Edition"
+            }
+        },
+        {
+            "name": {
+                "en-US": "Factorio"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": "%appid%\\Factorio"
+            }
+        },
+        {
+            "name": {
+                "en-US": "Oxygen Not Included"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": "%USERPROFILE%\\Documents\\Klei\\DoNotStarve\\save"
+            }
+        },
+        {
+            "name": {
+                "en-US": "Don't Starve"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": "%USERPROFILE%\\Documents\\Klei\\OxygenNotIncluded\\save_files"
             }
         },
         {
@@ -413,10 +496,70 @@
         },
         {
             "name": {
-                "en-US": "RimWorld"
+                "en-US": "The Escapists"
             },
             "steam": {
                 "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Escapists 2"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Life is Strange: Before the Storm"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Life is Strange"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Life is Strange 2"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "RimWorld"
+            },
+            "steam": {
+                "appid": "294100",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Banished"
+            },
+            "steam": {
+                "appid": "242920",
                 "launch": "",
                 "save": ""
             }
@@ -430,7 +573,48 @@
                 "launch": "",
                 "save": ""
             }
-        },{
+        },
+        {
+            "name": {
+                "en-US": "Craft The World"
+            },
+            "steam": {
+                "appid": "248390",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "They Are Billions"
+            },
+            "steam": {
+                "appid": "644930",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Jurassic World Evolution"
+            },
+            "steam": {
+                "appid": "648350",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Planet Zoo"
+            },
+            "steam": {
+                "appid": "703080",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
             "name": {
                 "en-US": "Space Haven"
             },
@@ -476,6 +660,66 @@
             },
             "steam": {
                 "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Subnautica"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Tropico 6"
+            },
+            "steam": {
+                "appid": "492720",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Farming Simulator 19"
+            },
+            "steam": {
+                "appid": "787860",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "The Sims™ 4"
+            },
+            "steam": {
+                "appid": "1222670",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Northgard"
+            },
+            "steam": {
+                "appid": "466560",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "House Flipper"
+            },
+            "steam": {
+                "appid": "613100",
                 "launch": "",
                 "save": ""
             }
@@ -553,6 +797,26 @@
         {
             "name": {
                 "en-US": "UnderMine"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Crusader Kings II"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Crusader Kings III"
             },
             "steam": {
                 "appid": "",
@@ -760,7 +1024,7 @@
                 "save": ""
             },
             "epic": {
-            	"save": "%USERPROFILE%\\Documents\\My Games\\Sid Meier's Civilization VI (Epic)\\Saves\\Single"
+                "save": "%USERPROFILE%\\Documents\\My Games\\Sid Meier's Civilization VI (Epic)\\Saves\\Single"
             }
         },
         {
@@ -1135,6 +1399,16 @@
         },
         {
             "name": {
+                "en-US": "Transport Fever 2"
+            },
+            "steam": {
+                "appid": "1066780",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
                 "en-US": "SPORE™"
             },
             "steam": {
@@ -1336,6 +1610,26 @@
         {
             "name": {
                 "en-US": "Victoria II"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Cities: Skylines"
+            },
+            "steam": {
+                "appid": "",
+                "launch": "",
+                "save": ""
+            }
+        },
+        {
+            "name": {
+                "en-US": "Age of Wonders III"
             },
             "steam": {
                 "appid": "",
